@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NFL.UI/1.0.0": {
+        "dependencies": {
+          "NFL.Data": "1.0.0"
+        },
+        "runtime": {
+          "NFL.UI.dll": {}
+        }
+      },
+      "NFL.Data/1.0.0": {
+        "runtime": {
+          "NFL.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NFL.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NFL.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
